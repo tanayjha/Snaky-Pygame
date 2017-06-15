@@ -1,0 +1,1 @@
+{"layout": "external", "orientation": "landscape", "package": "com.android.snaky", "include_pil": false, "name": "Snake Charm 3", "icon_name": "snape 5", "version": "10", "permissions": ["INTERNET", "VIBRATE"], "include_sqlite": false, "numeric_version": "1"}
